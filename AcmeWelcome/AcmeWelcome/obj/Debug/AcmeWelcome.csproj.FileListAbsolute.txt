@@ -1,0 +1,7 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeWelcome\AcmeWelcome\bin\Debug\AcmeWelcome.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeWelcome\AcmeWelcome\bin\Debug\AcmeWelcome.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeWelcome\AcmeWelcome\bin\Debug\AcmeWelcome.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeWelcome\AcmeWelcome\obj\Debug\AcmeWelcome.csproj.AssemblyReference.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeWelcome\AcmeWelcome\obj\Debug\AcmeWelcome.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeWelcome\AcmeWelcome\obj\Debug\AcmeWelcome.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeWelcome\AcmeWelcome\obj\Debug\AcmeWelcome.pdb
