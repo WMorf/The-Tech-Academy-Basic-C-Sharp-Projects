@@ -1,0 +1,56 @@
+bool (short for boolean): this can have a true or a false value.
+
+byte: represents an integer between 0 and 255.
+
+sbyte (signed byte): represents an integer between -128 and 127.
+
+char (short for character): represents one Unicode character.
+
+decimal: represents any number up to 28 or 29 digits in length.
+
+double: represents any number up to 15 or 16 digits in length.
+
+float: represents any number up to 7 digits in length.
+
+	Float (32-bits),
+
+	Double (64-bits), and
+
+	Decimal (128-bits).
+
+int: represents a whole number between roughly -2,000,000,000 and 2,000,000,000.
+
+uint (unsigned integer): represents a whole number between 0 and about 4,000,000,000.
+
+
+long: represents a whole number between roughly negative 9 quintillion (-9,000,000,000,000,000,000) and positive 9 quintillion (9,000,000,000,000,000,000).
+
+	The long data type is the 64-bit version of int (which is 32-bits).
+
+
+ulong (unsigned long): represents a whole number between 0 and 18 quintillion (18,000,000,000,000,000,000).
+
+	The ulong data type is the 64-bit version of uint (which is 32-bits).
+
+
+short: represents a whole number between -32,678 and 32,767.
+
+	The short data type is the 16-bit version of int.
+
+
+ushort (unsigned short): represents a whole number between 0 and 65,535.
+
+string: represents a set of 0 or more Unicode characters. Strings are delimited by double-quotation marks.
+	
+	
+Remember, a variable is simply a named location in memory. It’s helpful for proper memory allocation to 		assign proper data types.
+
+
+String to Integer:
+	Convert.ToInt32();
+
+Integer to String:
+	currentAge.ToString();
+
+Bool to String:
+	Convert.ToString();
