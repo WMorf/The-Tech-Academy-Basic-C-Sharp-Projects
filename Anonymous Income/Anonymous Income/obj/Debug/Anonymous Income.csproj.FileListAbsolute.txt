@@ -1,0 +1,7 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income\Anonymous Income\bin\Debug\Anonymous Income.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income\Anonymous Income\bin\Debug\Anonymous Income.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income\Anonymous Income\bin\Debug\Anonymous Income.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income\Anonymous Income\obj\Debug\Anonymous Income.csproj.AssemblyReference.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income\Anonymous Income\obj\Debug\Anonymous Income.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income\Anonymous Income\obj\Debug\Anonymous Income.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income\Anonymous Income\obj\Debug\Anonymous Income.pdb
