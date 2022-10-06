@@ -1,0 +1,7 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Inusrance Approval\Inusrance Approval\bin\Debug\Inusrance Approval.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Inusrance Approval\Inusrance Approval\bin\Debug\Inusrance Approval.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Inusrance Approval\Inusrance Approval\bin\Debug\Inusrance Approval.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Inusrance Approval\Inusrance Approval\obj\Debug\Inusrance Approval.csproj.AssemblyReference.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Inusrance Approval\Inusrance Approval\obj\Debug\Inusrance Approval.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Inusrance Approval\Inusrance Approval\obj\Debug\Inusrance Approval.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Inusrance Approval\Inusrance Approval\obj\Debug\Inusrance Approval.pdb
