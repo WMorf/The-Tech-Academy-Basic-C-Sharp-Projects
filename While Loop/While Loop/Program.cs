@@ -10,12 +10,13 @@ namespace While_Loop
     {
         static void Main()
         {
-
+            //Choose a letter game
             Console.WriteLine("Guess the Letter");
             Console.WriteLine("Any Letter of the Alphabet");
             string letter = Console.ReadLine();
             bool isLetter = letter == "a";
 
+            //runs while loop at least once
             do
             {
 
@@ -42,6 +43,7 @@ namespace While_Loop
 
             int Countdown = 10;
 
+            //While loop runs until it gets to one then...
             while (Countdown > 0)
             {
                 if(Countdown > 0)
@@ -52,10 +54,12 @@ namespace While_Loop
                 
                 if(Countdown <= 0)
                 {
+                    // explosion
                     Console.WriteLine("Boom!");
                 }
             }
 
+            //keep console from closing
             Console.ReadLine();
         }
     }
