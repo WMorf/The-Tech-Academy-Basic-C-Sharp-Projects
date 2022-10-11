@@ -100,7 +100,55 @@ namespace _6_Part_App
                 }
             }
 
+            Console.WriteLine("\n");
+
             //Part 5
+
+            //List of strings with duplicate
+            List<string> myOtherList = new List<string> { "I", "am", "seeing", "double", "double" };
+
+            Console.WriteLine("Enter Search Parameters");
+            string search2 = Console.ReadLine();
+
+            //iterates through myOtherList checking if it is contained within
+            for (int i = 0; i < myOtherList.Count; i++)
+            {
+                if (myOtherList[i] == search2)
+                {
+                    Console.WriteLine("The item " + myOtherList[i] + " is at the index [" + i + "]");
+                }
+                //If not present, message printed and loop exited
+                else if (!myOtherList.Contains(search2))
+                {
+                    Console.WriteLine("The item " + search2 + " is not in myOtherList");
+                    break;
+                }
+            }
+
+            Console.WriteLine("\n");
+
+            //Part 6
+
+            //List with duplicates
+            List<string> thisList = new List<string> { "War", "Huh", "What", "Good For", "War" };
+
+            List<string> readList = new List<string> {};
+            foreach(string item in thisList)
+            {
+                //If item has been read before this will print that it is a duplicate
+                if (readList.Contains(item))
+                {
+                    Console.WriteLine("this item is a duplicate");
+                    readList.Add(item);
+                }
+                //If not, item is added to the readList
+                else
+                {
+                    Console.WriteLine("this item is a unique");
+                    readList.Add(item);
+                }
+
+            }
 
             Console.ReadLine();
         }
