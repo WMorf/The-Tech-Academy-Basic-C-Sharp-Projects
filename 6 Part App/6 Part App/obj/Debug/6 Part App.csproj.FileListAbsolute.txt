@@ -1,0 +1,6 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\6 Part App\6 Part App\bin\Debug\6 Part App.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\6 Part App\6 Part App\bin\Debug\6 Part App.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\6 Part App\6 Part App\bin\Debug\6 Part App.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\6 Part App\6 Part App\obj\Debug\6 Part App.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\6 Part App\6 Part App\obj\Debug\6 Part App.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\6 Part App\6 Part App\obj\Debug\6 Part App.pdb

@@ -18,8 +18,7 @@ namespace Array_App
 
             //Get Index for words and print to screen if within range of array
             Console.WriteLine("Please choose an index for words (0-3)");
-            string wordChoice = Console.ReadLine();
-            int wordIndex = Convert.ToInt32(wordChoice);
+            int wordIndex = Convert.ToInt32(Console.ReadLine());
 
             if (wordIndex < words.Length)
             {
@@ -31,8 +30,7 @@ namespace Array_App
 
             //Get Index for nums and print to screen if within range of array
             Console.WriteLine("Please choose an index for nums (0-3)");
-            string mumChoice = Console.ReadLine();
-            int numIndex = Convert.ToInt32(wordChoice);
+            int numIndex = Convert.ToInt32(Console.ReadLine();
 
             if (numIndex < nums.Length)
             {
@@ -45,8 +43,7 @@ namespace Array_App
 
             //Get Index for notes and print to screen if within range of list
             Console.WriteLine("Please choose an index for notes (0-2)");
-            string noteChoice = Console.ReadLine();
-            int noteIndex = Convert.ToInt32(noteChoice);
+            int noteIndex = Convert.ToInt32(Console.ReadLine();
 
             if (noteIndex < notes.Count)
             {
