@@ -32,12 +32,12 @@ namespace Strings_and_Ints
             //In case of format error such as string inoput
             catch (FormatException ex)
             {
-                Console.WriteLine("Please type a whole number");
+                Console.WriteLine("Please type a whole number \n");
             }
             //In case zero is inout by user to divide
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine("Please don't divide by zero");
+                Console.WriteLine("Please don't divide by zero\n");
             }
             //all else
             catch (Exception ex)
