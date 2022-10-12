@@ -1,0 +1,7 @@
+C:\Users\techa\source\repos\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\techa\source\repos\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\techa\source\repos\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\techa\source\repos\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\techa\source\repos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\techa\source\repos\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\techa\source\repos\Methods\Methods\obj\Debug\Methods.pdb
