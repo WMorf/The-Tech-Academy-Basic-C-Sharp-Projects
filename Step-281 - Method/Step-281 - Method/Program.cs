@@ -11,7 +11,9 @@ namespace Step_281___Method
         static void Main(string[] args)
         {
             ThisClass NewClass = new ThisClass();
+            //feed two ints into method
             NewClass.TakesTwo(5, 6);
+            //feed 2 ints into method specifying parameter names
             NewClass.TakesTwo(int1: 4, int2: 10);
 
             Console.ReadLine();
