@@ -1,0 +1,6 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step280-Method\Step280-Method\obj\Debug\Step280-Method.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step280-Method\Step280-Method\bin\Debug\Step280-Method.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step280-Method\Step280-Method\bin\Debug\Step280-Method.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step280-Method\Step280-Method\bin\Debug\Step280-Method.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step280-Method\Step280-Method\obj\Debug\Step280-Method.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step280-Method\Step280-Method\obj\Debug\Step280-Method.pdb
