@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step285 Class", "Step285 Class\Step285 Class.csproj", "{05064C40-10EC-46B8-9D47-45C3BA99B44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05064C40-10EC-46B8-9D47-45C3BA99B44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05064C40-10EC-46B8-9D47-45C3BA99B44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05064C40-10EC-46B8-9D47-45C3BA99B44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05064C40-10EC-46B8-9D47-45C3BA99B44F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5F1DEB-7B7E-4524-B0DE-3E32797A741B}
+	EndGlobalSection
+EndGlobal
