@@ -13,6 +13,7 @@ namespace Step285_Class
             //Step 2
             MyClass newClass = new MyClass();
 
+
             //Step 3 use method on user input and print result to screen
             Console.WriteLine("Pick a number to split in half!");
             int input = Convert.ToInt32(Console.ReadLine());
@@ -38,7 +39,7 @@ namespace Step285_Class
             Console.WriteLine("Add 257 to a number");
             Console.WriteLine("Pick a number one more time");
             int number2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(number2 + " + 257 = " + MyClass.Add257(number2));
+            Console.WriteLine(number2 + " + 257 = " + StaticClass.Add257(number2));
             Console.ReadLine();
 
         }
