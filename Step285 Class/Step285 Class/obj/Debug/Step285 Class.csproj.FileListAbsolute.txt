@@ -1,1 +1,7 @@
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step285 Class\Step285 Class\obj\Debug\Step285 Class.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step285 Class\Step285 Class\bin\Debug\Step285 Class.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step285 Class\Step285 Class\bin\Debug\Step285 Class.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step285 Class\Step285 Class\bin\Debug\Step285 Class.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step285 Class\Step285 Class\obj\Debug\Step285 Class.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step285 Class\Step285 Class\obj\Debug\Step285 Class.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step285 Class\Step285 Class\obj\Debug\Step285 Class.csproj.AssemblyReference.cache
