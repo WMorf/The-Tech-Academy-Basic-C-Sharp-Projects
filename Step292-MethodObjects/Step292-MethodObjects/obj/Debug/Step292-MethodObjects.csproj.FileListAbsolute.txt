@@ -1,0 +1,7 @@
+C:\Users\techa\source\repos\Step292-MethodObjects\Step292-MethodObjects\bin\Debug\Step292-MethodObjects.exe.config
+C:\Users\techa\source\repos\Step292-MethodObjects\Step292-MethodObjects\bin\Debug\Step292-MethodObjects.exe
+C:\Users\techa\source\repos\Step292-MethodObjects\Step292-MethodObjects\bin\Debug\Step292-MethodObjects.pdb
+C:\Users\techa\source\repos\Step292-MethodObjects\Step292-MethodObjects\obj\Debug\Step292-MethodObjects.csproj.AssemblyReference.cache
+C:\Users\techa\source\repos\Step292-MethodObjects\Step292-MethodObjects\obj\Debug\Step292-MethodObjects.csproj.CoreCompileInputs.cache
+C:\Users\techa\source\repos\Step292-MethodObjects\Step292-MethodObjects\obj\Debug\Step292-MethodObjects.exe
+C:\Users\techa\source\repos\Step292-MethodObjects\Step292-MethodObjects\obj\Debug\Step292-MethodObjects.pdb
