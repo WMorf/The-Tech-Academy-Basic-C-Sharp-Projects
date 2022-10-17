@@ -1,0 +1,7 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step302AbstractClass\Step302AbstractClass\bin\Debug\Step302AbstractClass.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step302AbstractClass\Step302AbstractClass\bin\Debug\Step302AbstractClass.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step302AbstractClass\Step302AbstractClass\bin\Debug\Step302AbstractClass.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step302AbstractClass\Step302AbstractClass\obj\Debug\Step302AbstractClass.csproj.AssemblyReference.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step302AbstractClass\Step302AbstractClass\obj\Debug\Step302AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step302AbstractClass\Step302AbstractClass\obj\Debug\Step302AbstractClass.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step302AbstractClass\Step302AbstractClass\obj\Debug\Step302AbstractClass.pdb
