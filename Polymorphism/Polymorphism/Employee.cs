@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Step302AbstractClass
+namespace Polymorphism
 {
     class Employee : Person, IQuittable
     {
@@ -15,6 +15,7 @@ namespace Step302AbstractClass
             Console.WriteLine("Name: " + this.FirstName + " " + this.LastName);
         }
 
+        //Step 2 Employee class inherit that interface and implement the Quit() method
         public void Quit()
         {
             Console.WriteLine("Goodbye");
@@ -23,4 +24,3 @@ namespace Step302AbstractClass
         }
     }
 }
-

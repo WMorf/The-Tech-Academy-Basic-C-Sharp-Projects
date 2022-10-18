@@ -10,13 +10,12 @@ namespace Step302AbstractClass
     {
         static void Main(string[] args)
         {
-            //Step 5 Instantiate an Employee objecct
             Employee sample = new Employee() { FirstName = "Sample", LastName = "Student" };
 
-            //Call superclass method
             sample.SayName();
 
             Console.ReadLine();
+            sample.Quit();
         }
     }
 }

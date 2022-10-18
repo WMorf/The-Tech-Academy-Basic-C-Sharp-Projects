@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace Step302AbstractClass
 {
-    public abstract  class Person
+    interface IQuittable
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-
-        public abstract void SayName();
+        void Quit();
     }
 }
-

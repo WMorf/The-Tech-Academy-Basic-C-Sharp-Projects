@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Step302AbstractClass
+namespace Polymorphism
 {
-    public abstract  class Person
+    public abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -14,4 +14,3 @@ namespace Step302AbstractClass
         public abstract void SayName();
     }
 }
-
