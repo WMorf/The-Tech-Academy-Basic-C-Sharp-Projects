@@ -1,0 +1,7 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators\obj\Debug\Operators.pdb
