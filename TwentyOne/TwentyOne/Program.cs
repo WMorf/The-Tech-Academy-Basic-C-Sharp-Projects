@@ -10,17 +10,6 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Rick", "Evee", "Johnathan" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Benny";
-            game += player;
-            game -= player;
 
             Deck deck = new Deck();
             deck.Shuffle(3);
@@ -29,14 +18,28 @@ namespace TwentyOne
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
+
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
+
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Rick", "Evee", "Johnathan" };
+            //game.ListPlayers();
+            //Console.ReadLine();
+
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Benny";
+            //game += player;
+            //game -= player;
 
             //TwentyOneGame game = new TwentyOneGame();
             //game.Players = new List<string>() { "Rick", "Benny", "Evee", "Johnathan" };
             //game.ListPlayers();
             //game.Play();
             //Console.ReadLine();
+
         }
     }
 }
