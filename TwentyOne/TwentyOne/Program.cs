@@ -10,55 +10,35 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            //Greet Player
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
 
-            Deck deck = new Deck();
+            //Begin Game
+            Console.WriteLine("Hello, {0}. Would you like to play a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+            {
+                Player player = new Player(playerName, bank);
+                //Polymorphism so we can use overloaded operators
+                Game game = new TwentyOneGame();
 
+                //Keep game going while player is active, add them to the game. Remove when while loop ends
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now...");
 
-
-
-            //deck.Shuffle(3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-
-            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
-
-            ////List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-            //List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
-            //int sum = numberList.Sum();
-
-            //Console.WriteLine(sum);
-
-            //foreach (int card in numberList)
-            //{
-            //    Console.WriteLine(card.Face);
-            //}
-
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
-
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Rick", "Evee", "Johnathan" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Benny";
-            //game += player;
-            //game -= player;
-
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Rick", "Benny", "Evee", "Johnathan" };
-            //game.ListPlayers();
-            //game.Play();
-
-
-            Console.ReadLine();
-
+            //Pause Console
+            Console.Read();
         }
     }
 }
