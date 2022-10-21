@@ -10,7 +10,7 @@ namespace Lambda
     {
         static void Main(string[] args)
         {
-            //
+            //create a list of at least 10 employees. At least two employees should have the first name “Joe”
             List<Employee> empList = new List<Employee>()
             {
                 new Employee() {Id = 1, firstName = "Joe", lastName = "Clonesmith"},
@@ -27,6 +27,8 @@ namespace Lambda
 
             List<Employee> joeList = new List<Employee>();
 
+
+            // Using a foreach loop, create a new list of all employees with the first name “Joe”
             foreach (Employee employee in empList)
             {
                 if (employee.firstName == "Joe")
