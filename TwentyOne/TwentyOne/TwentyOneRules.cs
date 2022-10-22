@@ -50,5 +50,42 @@ namespace TwentyOne
             if (value == 21) return true;
             else return false;
         }
+
+        public static bool IsBusted(List<Card> Hand)
+        {
+            int value = GetAllPossibleHandValues(Hand).Min();
+            if (value > 21) return true;
+            else return false;
+        }
+
+        //has dealer stay on hand value of 17-21
+        public static bool ShouldDealerStay(List<Card> Hand)
+        {
+            int[] possibleHandValues = GetAllPossibleHandValues(Hand);
+            foreach (int value in possibleHandValues)
+            {
+                if (value > 16 && value < 22)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        //bool? allows for null value
+        public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
+        {
+            int[] playerResults = GetAllPossibleHandValues(PlayerHand);
+            int[] dealerResults = GetAllPossibleHandValues(DealerHand);
+
+            //Use a lambda method to get the highest value in the player's hand (playerResults) that is less than 22 and is then assigned to playerScore
+            int playerScore = playerResults.Where(x => x < 22).Max();
+            int dealerScore = dealerResults.Where(x => x < 22).Max();
+
+            if (playerScore > dealerScore) return true;
+            else if (playerScore < dealerScore) return false;
+            else return null;
+
+        }
     }
 }
