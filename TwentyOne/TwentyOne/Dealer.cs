@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO;
 
 namespace TwentyOne
 {
@@ -16,14 +15,7 @@ namespace TwentyOne
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            string card = string.Format(Deck.Cards.First().ToString() + "\n");
-            Console.WriteLine(card);
-            //automatically disposes of used resources when closing brace fires
-            using (StreamWriter file = new StreamWriter(@"C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\logs.txt", true))
-            {
-                file.WriteLine(DateTime.Now);
-                file.WriteLine(card);
-            }
+            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
             Deck.Cards.RemoveAt(0);
 
         }

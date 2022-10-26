@@ -3,16 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO;
 
 namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
-        {;
-
-
+        {
             //Greet Player
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
@@ -39,15 +36,6 @@ namespace TwentyOne
                 Console.WriteLine("Thank you for playing!");
             }
             Console.WriteLine("Feel free to look around the casino. Bye for now...");
-
-            //Write/Read log to text file
-            //string text = File.ReadAllText(@"C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\logs.txt");
-            //Console.WriteLine(text);
-
-            //DateTime dateTime = new DateTime(1995, 5, 23, 8, 32, 45);
-            //DateTime dateTime2 = new DateTime(2013, 6, 1, 16, 34, 22);
-
-            //TimeSpan timeSpan = dateTime2 - dateTime;
 
             //Pause Console
             Console.Read();
