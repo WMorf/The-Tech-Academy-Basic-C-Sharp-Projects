@@ -1,0 +1,6 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\DateTIme\DateTIme\bin\Debug\DateTIme.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\DateTIme\DateTIme\bin\Debug\DateTIme.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\DateTIme\DateTIme\bin\Debug\DateTIme.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\DateTIme\DateTIme\obj\Debug\DateTIme.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\DateTIme\DateTIme\obj\Debug\DateTIme.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\DateTIme\DateTIme\obj\Debug\DateTIme.pdb
