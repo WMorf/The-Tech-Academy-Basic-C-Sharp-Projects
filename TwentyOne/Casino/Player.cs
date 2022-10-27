@@ -9,6 +9,9 @@ namespace Casino
     public class Player
     {
         //Constructor
+        public Player(string name) : this(name, 100)
+        {
+        }
         public Player(string name, int beginningBalance) 
         {
             Hand = new List<Card>();
