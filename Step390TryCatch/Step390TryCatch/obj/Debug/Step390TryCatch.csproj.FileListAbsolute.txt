@@ -1,0 +1,7 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step390TryCatch\Step390TryCatch\bin\Debug\Step390TryCatch.exe.config
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step390TryCatch\Step390TryCatch\bin\Debug\Step390TryCatch.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step390TryCatch\Step390TryCatch\bin\Debug\Step390TryCatch.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step390TryCatch\Step390TryCatch\obj\Debug\Step390TryCatch.csproj.AssemblyReference.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step390TryCatch\Step390TryCatch\obj\Debug\Step390TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step390TryCatch\Step390TryCatch\obj\Debug\Step390TryCatch.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Step390TryCatch\Step390TryCatch\obj\Debug\Step390TryCatch.pdb
