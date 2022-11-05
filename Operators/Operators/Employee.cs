@@ -14,11 +14,11 @@ namespace Operators
         public string LastName { get; set; }
 
         //Step 2 overload the “==” operator and it's pair !=
-        public static bool operator== (Employee employee1, Employee employee2)
+        public static bool operator == (Employee employee1, Employee employee2)
         {
             return employee1.Id == employee2.Id;
         }
-        public static bool operator !=(Employee employee1, Employee employee2)
+        public static bool operator != (Employee employee1, Employee employee2)
         {
             return employee1.Id != employee2.Id;
         }
