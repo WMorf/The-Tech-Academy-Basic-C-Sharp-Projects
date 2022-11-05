@@ -72,7 +72,6 @@ C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\N
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Newtonsoft.Json.xml
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Antlr3.Runtime.pdb
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.AssemblyReference.cache
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
@@ -81,3 +80,4 @@ C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\N
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
 C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.AssemblyReference.cache
