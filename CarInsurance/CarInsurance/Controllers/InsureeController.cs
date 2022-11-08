@@ -20,6 +20,11 @@ namespace CarInsurance.Controllers
             return View(db.Insurees.ToList());
         }
 
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
+
         // GET: Insuree/Details/5
         public ActionResult Details(int? id)
         {
@@ -35,17 +40,7 @@ namespace CarInsurance.Controllers
             return View(insuree);
         }
 
-        public decimal CalculateQuote (Insuree insuree)
-        {
-            insuree.Quote = 50;
 
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
-            {
-
-            }
-
-            return insuree.Quote;
-        }
 
         // GET: Insuree/Create
         public ActionResult Create()
@@ -62,12 +57,73 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree); //Calculates quote before adding it to the database
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
             return View(insuree);
+        }
+
+        public decimal CalculateQuote(Insuree insuree)
+        {
+            insuree.Quote = 50;
+
+            //0-18
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
+            {
+                insuree.Quote += 100;
+            }
+
+            //19-25
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year > 18 && DateTime.Now.Year - insuree.DateOfBirth.Year <= 25)
+            {
+                insuree.Quote += 50;
+            }
+
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 26)
+            {
+                insuree.Quote += 25;
+            }
+
+            if (Convert.ToInt32(insuree.CarYear) < 2000)
+            {
+                insuree.Quote += 25;
+            }
+
+            if (Convert.ToInt32(insuree.CarYear) > 2015)
+            {
+                insuree.Quote += 25;
+            }
+
+            if (insuree.CarMake == "Porsche")
+            {
+                insuree.Quote += 25;
+            }
+
+            if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+            {
+                insuree.Quote += 25;
+            }
+
+            // 10 per speeding ticket
+            insuree.Quote += insuree.SpeedingTickets * 10;
+
+            //add 25%
+            if (insuree.DUI == true)
+            {
+                insuree.Quote *= 1.25m;
+            }
+
+            //add 50%
+            if (insuree.CoverageType == true)
+            {
+                insuree.Quote *= 1.5m;
+            }
+
+
+            return insuree.Quote;
         }
 
         // GET: Insuree/Edit/5
@@ -94,6 +150,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree); //Updates quote before updating database.
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
