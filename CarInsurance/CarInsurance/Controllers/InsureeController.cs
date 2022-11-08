@@ -82,7 +82,8 @@ namespace CarInsurance.Controllers
                 insuree.Quote += 50;
             }
 
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 26)
+            // AGE 26+
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year >= 26)
             {
                 insuree.Quote += 25;
             }
