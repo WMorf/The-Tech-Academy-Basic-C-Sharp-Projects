@@ -70,13 +70,13 @@ namespace CarInsurance.Controllers
         {
             insuree.Quote = 50;
 
-            //0-18
+            // AGE 0-18
             if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
             {
                 insuree.Quote += 100;
             }
 
-            //19-25
+            // AGE 19-25
             if (DateTime.Now.Year - insuree.DateOfBirth.Year > 18 && DateTime.Now.Year - insuree.DateOfBirth.Year <= 25)
             {
                 insuree.Quote += 50;
@@ -102,12 +102,13 @@ namespace CarInsurance.Controllers
                 insuree.Quote += 25;
             }
 
+            // Porsche can add up to $50
             if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
             {
                 insuree.Quote += 25;
             }
 
-            // 10 per speeding ticket
+            // $10 per speeding ticket
             insuree.Quote += insuree.SpeedingTickets * 10;
 
             //add 25%
