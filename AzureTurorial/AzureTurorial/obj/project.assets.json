@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\techa\\OneDrive\\Desktop\\Github\\The-Tech-Academy-Basic-C-Sharp-Projects\\AzureTurorial\\AzureTurorial\\AzureTurorial.csproj",
+      "projectUniqueName": "C:\\Github\\The-Tech-Academy-Basic-C-Sharp-Projects\\AzureTurorial\\AzureTurorial\\AzureTurorial.csproj",
       "projectName": "AzureTurorial",
-      "projectPath": "C:\\Users\\techa\\OneDrive\\Desktop\\Github\\The-Tech-Academy-Basic-C-Sharp-Projects\\AzureTurorial\\AzureTurorial\\AzureTurorial.csproj",
+      "projectPath": "C:\\Github\\The-Tech-Academy-Basic-C-Sharp-Projects\\AzureTurorial\\AzureTurorial\\AzureTurorial.csproj",
       "packagesPath": "C:\\Users\\techa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\techa\\OneDrive\\Desktop\\Github\\The-Tech-Academy-Basic-C-Sharp-Projects\\AzureTurorial\\AzureTurorial\\obj\\",
+      "outputPath": "C:\\Github\\The-Tech-Academy-Basic-C-Sharp-Projects\\AzureTurorial\\AzureTurorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\techa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,20 +51,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }
