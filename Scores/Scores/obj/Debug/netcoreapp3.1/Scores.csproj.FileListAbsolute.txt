@@ -1,0 +1,14 @@
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.AssemblyReference.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\techa\OneDrive\Desktop\Github\The-Tech-Academy-Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache
