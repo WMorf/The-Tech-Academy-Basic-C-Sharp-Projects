@@ -1,0 +1,13 @@
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe.config
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.pdb
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.dll
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.xml
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.AssemblyReference.cache
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CopyComplete
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.exe
+C:\Github\The-Tech-Academy-Basic-C-Sharp-Projects\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.pdb
